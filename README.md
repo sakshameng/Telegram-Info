@@ -1,2 +1,1 @@
-# Telegram
-A Telegrammer (JOKE)
+# SLP-TOKENS
